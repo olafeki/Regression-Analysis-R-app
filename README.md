@@ -7,7 +7,7 @@ The project requested initially was to implement simple and multiple regression 
 
 Here are the two packages we implemented:
 - [linreg](https://github.com/verinak/linreg) : for Simple Linear Regression
-- [cvreg](https://github.com/verinak/cvreg) : for Multiple Linear Regression
+- [cvreg](https://github.com/olafeki/cvreg-Rlibrary) : for Multiple Linear Regression
 
 ## Application Overview
 
