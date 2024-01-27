@@ -6,7 +6,7 @@ This was our final project for the Regression Analysis course taught by Prof. Am
 The project requested initially was to implement simple and multiple regression from scratch using R. We decided to bundle our implementation into a package, and create a simple UI that uses this implementation for performing Linear Regression Analysis.<br/><br/>
 
 Here are the two packages we implemented:
-- [linreg](https://github.com/verinak/linreg) : for Simple Linear Regression
+- [linreg](https://github.com/olafeki/linreg-Rlibrary) : for Simple Linear Regression
 - [cvreg](https://github.com/olafeki/cvreg-Rlibrary) : for Multiple Linear Regression
 
 ## Application Overview
